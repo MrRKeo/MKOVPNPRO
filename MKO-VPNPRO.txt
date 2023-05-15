@@ -1,6 +1,6 @@
 {
-"Version":"4.13",
-"Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/BROKEO.zip",
+"Version":"5.5",
+"Url":"https://raw.githubusercontent.com/MrRKeo/MKOVPNPRO/main/MKOVPNPRO.zip",
 "Changelog":"
 🇸🇬Singapore Server Free30ថ្ងៃ
 🇸🇬Singapore Server Free7ថ្ងៃ
